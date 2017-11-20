@@ -2,3 +2,4 @@
     Aug 50+ Rust
 	Sep 49	Rust	0.417%
 	Oct 46	Rust	0.409%
+	Nov 31	Rust	0.698%
