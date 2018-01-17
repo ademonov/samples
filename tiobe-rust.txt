@@ -1,7 +1,8 @@
-    Jul 38	Rust	0.458%
-    Aug 50+ Rust
-	Sep 49	Rust	0.417%
-	Oct 46	Rust	0.409%
-	Nov 31	Rust	0.698%
-	Dec 43	Rust	0.530%
+Jul 38	Rust	0.458% 2017
+Aug 50+ Rust
+Sep 49	Rust	0.417%
+Oct 46	Rust	0.409%
+Nov 31	Rust	0.698%
+Dec 43	Rust	0.530%
+Jan 46	Rust	0.230% 2018
 
