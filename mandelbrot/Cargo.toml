@@ -5,3 +5,5 @@ authors = ["Andrew"]
 
 [dependencies]
 num = "0.1"
+image = "0.18"
+crossbeam = "0.3"
