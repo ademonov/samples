@@ -12,3 +12,4 @@ May 50+
 Jun 45	Rust 	0.258%
 Jul 39	Rust	0.271%
 Aug 36	Rust	0.267%
+Sep 31	Rust	0.396%
