@@ -17,3 +17,4 @@ Oct 34	Rust	0.278%
 Nov 37	Rust	0.251%
 Dec 34	Rust	0.297%
 Jan 33	Rust	0.360% 2019
+Feb 37	Rust	0.229%
