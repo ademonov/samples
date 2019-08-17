@@ -23,3 +23,4 @@ Apr 34	Rust	0.342%
 May 34	Rust	0.335%
 Jun 38	Rust	0.259%
 Jul 33	Rust	0.339%
+Aug 28	Rust	0.450%
