@@ -28,3 +28,4 @@ Sep 33	Rust	0.365%
 Oct 34	Rust	0.356%
 Nov 25	Rust	0.506%
 Dec 31	Rust	0.370%
+Jan 30	Rust	0.395% 2020
