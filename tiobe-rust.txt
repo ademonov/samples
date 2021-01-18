@@ -40,3 +40,4 @@ Sep 18  Rust	0.92%
 Oct 25	Rust	0.68%
 Nov 25	Rust	0.58%
 Dec 21	Rust	0.78%
+Jan 26	Rust	0.61% 2021
